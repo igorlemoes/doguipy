@@ -37,6 +37,8 @@ clear
 echo "Informe o domínio que você vai utilizar no sistema: "
 read dominio
 
+clear
+
 echo "Agora informe um e-mail válido: "
 read email
 
