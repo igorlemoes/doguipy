@@ -98,7 +98,7 @@ def form_n8n() -> None:
 
     default_image = 'n8nio/n8n:latest'
     
-    default_envs = """"""
+    default_envs = """WEBHOOK_URL=seu_dominio.com"""
         
     ui.query('textarea').style('line-height: 24px')
 
